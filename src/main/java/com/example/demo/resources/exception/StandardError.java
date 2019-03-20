@@ -1,7 +1,6 @@
 package com.example.demo.resources.exception;
 
 import java.io.Serializable;
-import java.security.Timestamp;
 
 public class StandardError implements Serializable {
 	/**
